@@ -28,6 +28,10 @@ nav{
 .title-flex{
     display: flex;
 }
+.banner-container{
+    background-image: url(./Hero-bg.png);
+}
+
 .btn-primary{
     background-color: white;
     font-weight: 700;
@@ -91,9 +95,6 @@ nav{
     color: #FFFFFF;
     padding: 21px 24px;
     border-radius: 8px;
-}
-.header{
-    background-image: url("/assets/Hero-bg.png");
 }
 .secrondary-bg{
     color: #FFFFFF;
@@ -186,7 +187,7 @@ footer input[type="text"]{
 .Support{
     margin: 0 auto;
     max-width: 1140px;
-    background-image: url("/assets/handshake.jpg");
+    background-image: url("./handshake.jpg");
     /* background-size: contain; */
     background-repeat: no-repeat;
     background-size: cover;
