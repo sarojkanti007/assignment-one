@@ -179,10 +179,25 @@ footer input[type="text"]{
     width: 548px;
 }
 .Support{
+    margin: 0 auto;
+    max-width: 1140px;
     background-image: url("/assets/handshake.jpg");
     /* background-size: contain; */
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     border-radius: 8px;
+}
+.open-cometment{
+    margin: 0 auto;
+    max-width: 1140px;
+    background-color: #FFFFFF;
+    display: flex;
+    border-radius: 10px;
+    justify-content: space-between;
+}
+.social-media{
+    font-weight: 700;
+    font-size: 20px;
+    color: #0D1321;
 }
