@@ -145,3 +145,10 @@ main{
 .current-target-description{
     text-align: center;
 }
+.skills-container{
+    display: flex;
+    gap: 24px;
+}
+.skill{
+    padding: 40px;
+}
