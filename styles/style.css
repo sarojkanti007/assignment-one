@@ -134,3 +134,14 @@ main{
     font-size: 32px;
     font-weight: bolder;
 }
+.current-target{
+    align-items: center;
+}
+.current-target-title{
+    text-align: center;
+    font-size: 32px;
+    font-weight: bolder;
+}
+.current-target-description{
+    text-align: center;
+}
