@@ -200,6 +200,7 @@ footer input[type="text"]{
     display: flex;
     border-radius: 10px;
     justify-content: space-between;
+    align-items: center;
 }
 .social-media{
     font-weight: 700;
