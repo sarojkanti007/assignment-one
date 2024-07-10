@@ -66,6 +66,9 @@ nav{
     justify-content: center;
     align-items: center;
 }
+.banner-png{
+    background-size: contain;
+}
 .banner-border img{
     margin: auto;
     display: block
