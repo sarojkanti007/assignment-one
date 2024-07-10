@@ -124,3 +124,13 @@ main{
 .subtitle-2{
     text-align: left;
 }
+.my-inspiration{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.inspiration-section{
+    text-align: center;
+    font-size: 32px;
+    font-weight: bolder;
+}
