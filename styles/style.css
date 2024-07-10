@@ -177,6 +177,8 @@ footer input[type="text"]{
     border-radius: 8px;
     background-color: white;
     width: 548px;
+    padding-left: 15px;
+    border: none;
 }
 .Support{
     margin: 0 auto;
